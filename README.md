@@ -13,4 +13,3 @@ btc is an implementation of a subset of the BitTorrent protocol to allow us to d
 ## ToDo
 The downloads proceed real slow. For example, downloading a one GB file took us five and a half hours. Fix This.
 Currently we support UDP trackers only. Add support for HTTP trackers.
-
